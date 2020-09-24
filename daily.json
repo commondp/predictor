@@ -38,5 +38,46 @@
         "amount": "299",
         "switch": "0",
         "disc": "VENUE :-  Dubai International Cricket Stadium ,Dubai "
+    },
+    {
+        "matchname": "KKR vs SRH",
+        "matchicon": "https://i.ibb.co/k5r49FR/20200924-140218.jpg",
+        "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
+        "date": "26 SEP 2020",
+        "matchmode": "TOSS",
+        "amount": "299",
+        "switch": "0",
+        "disc": "VENUE :- Sheikh Zayed Stadium, Abu Dhabi"
+    },
+    {
+        "matchname": "KXIP VS RCB",
+        "matchicon": "https://i.ibb.co/k5r49FR/20200924-140218.jpg",
+        "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
+        "date": "26 SEP 2020",
+        "matchmode": "TOSS",
+        "amount": "299",
+        "switch": "0",
+        "disc": "VENUE :- Sheikh Zayed Stadium, Abu Dhabi"
+    },
+    {
+        "matchname": "RR vs KXIP",
+        "matchicon": "https://i.ibb.co/v4c4zwS/20200924-130717-min.jpg",
+        "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
+        "date": "27 SEP 2020",
+        "matchmode": "TOSS",
+        "amount": "299",
+        "switch": "0",
+        "disc": "VENUE :-  Sheikh Zayed Stadium, Abu Dhabi"
+    },
+    {
+        "matchname": "RR vs KXIP",
+        "matchicon": "https://i.ibb.co/v4c4zwS/20200924-130717-min.jpg",
+        "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
+        "date": "27 SEP 2020",
+        "matchmode": "TOSS",
+        "amount": "299",
+        "switch": "0",
+        "disc": "VENUE :-  Sheikh Zayed Stadium, Abu Dhabi"
     }
+]
 ]
