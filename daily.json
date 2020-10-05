@@ -8,7 +8,7 @@
         "matchmode": "TOSS/MATCH",
         "amount": "299",
         "switch": "0",
-        "disc": "VENUE :- DHUBAI INTERNATIONAL STADIUM"
+        "disc": "VENUE :-  Dubai International Cricket Stadium ,Dubai"
     },
     {
         "matchname": "MI vs RR",
@@ -28,7 +28,7 @@
         "matchmode": "TOSS/MATCH",
         "amount": "299",
         "switch": "0",
-        "disc": "VENUE :- SHARJAH "
+        "disc": "VENUE :- Sheikh Zayed Stadium, Abu Dhabi "
     },
     {
         "matchname": "SRH vs KXIP",
@@ -38,7 +38,7 @@
         "matchmode": "TOSS/MATCH",
         "amount": "499",
         "switch": "0",
-        "disc": "VENUE :- SHARJAH "
+        "disc": "VENUE :- Dubai International Cricket Stadium , Dubai "
     },
     {
         "matchname": "RR vs DC",
@@ -48,7 +48,7 @@
         "matchmode": "TOSS/MATCH",
         "amount": "299",
         "switch": "0",
-        "disc": "VENUE :-  DUBAI INTERNATIONAL STADIUM "
+        "disc": "VENUE :-  Sharjah Cricket Stadium, Sharjah"
     },
     {
         "matchname": "KXIP vs KKR",
@@ -58,7 +58,7 @@
         "matchmode": "TOSS/MATCH",
         "amount": "499",
         "switch": "0",
-        "disc": "VENUE :-  DUBAI INTERNATIONAL STADIUM"
+        "disc": "VENUE :-  Sheikh Zayed Stadium, Abu Dhabi"
     }
 ]
 ]
