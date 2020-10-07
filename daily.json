@@ -1,13 +1,54 @@
 [
 
-    {
-        "matchname": "RCB vs DC",
-        "matchicon": "https://i.ibb.co/5Wz8jVb/20201002-094811-min.jpg",
+   {
+        "matchname": "KKR vs CSK",
+        "matchicon": "https://i.ibb.co/T4sxZDT/20201005-103610-min.jpg",
         "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
-        "date": "05 OCT 2020",
+        "date": "07 OCT 2020",
         "matchmode": "TOSS/MATCH",
         "amount": "299",
         "switch": "0",
-        "disc": "VENUE :-  Dubai International Cricket Stadium ,Dubai"
+        "disc": "VENUE :- Sheikh Zayed Stadium, Abu Dhabi "
+    },
+    {
+        "matchname": "SRH vs KXIP",
+        "matchicon": "https://i.ibb.co/VQwzJtf/20201005-103832-min.jpg",
+        "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
+        "date": "08 OCT 2020",
+        "matchmode": "TOSS/MATCH",
+        "amount": "499",
+        "switch": "0",
+        "disc": "VENUE :- Dubai International Cricket Stadium , Dubai "
+    },
+    {
+        "matchname": "RR vs DC",
+        "matchicon": "https://i.ibb.co/QkjZSfw/20201005-104852-min.jpg",
+        "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
+        "date": "09 OCT 2020",
+        "matchmode": "TOSS/MATCH",
+        "amount": "299",
+        "switch": "0",
+        "disc": "VENUE :-  Sharjah Cricket Stadium, Sharjah"
+    },
+    {
+        "matchname": "KXIP vs KKR",
+        "matchicon": "https://i.ibb.co/fS7qstC/20201005-105227-min.jpg",
+        "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
+        "date": "10 OCT 2020",
+        "matchmode": "TOSS/MATCH",
+        "amount": "499",
+        "switch": "0",
+        "disc": "VENUE :-  Sheikh Zayed Stadium, Abu Dhabi"
+    },
+     {
+        "matchname": "CSK vs RCB",
+        "matchicon": "https://i.ibb.co/TPXScpq/20201005-110607-min.jpg",
+        "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
+        "date": "10 OCT 2020",
+        "matchmode": "TOSS/MATCH",
+        "amount": "499",
+        "switch": "0",
+        "disc": "VENUE :-  Dubai International Cricket Stadium , Dubai"
     }
+    
 ]
