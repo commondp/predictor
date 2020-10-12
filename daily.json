@@ -1,25 +1,6 @@
 [
 
-   {
-        "matchname": "SRH vs RR",
-        "matchicon": "https://i.ibb.co/17GzvFw/20201011-090759.jpg",
-        "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
-        "date": "11 OCT 2020",
-        "matchmode": "TOSS/MATCH",
-        "amount": "299",
-        "switch": "0",
-        "disc": "VENUE :- Sheikh Zayed Stadium, Abu Dhabi "
-    },
-    {
-        "matchname": "MI vs DC",
-        "matchicon": "https://i.ibb.co/B6r9B2z/20201011-093110.jpg",
-        "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
-        "date": "11 OCT 2020",
-        "matchmode": "TOSS/MATCH",
-        "amount": "499",
-        "switch": "0",
-        "disc": "VENUE :- Dubai International Cricket Stadium , Dubai "
-    },
+   
     {
         "matchname": "RCB vs KKR",
         "matchicon": "https://i.ibb.co/Lnh7cVr/20201011-093344.jpg",
@@ -29,26 +10,7 @@
         "amount": "499",
         "switch": "1",
         "disc": "VENUE :-  Sharjah Cricket Stadium, Sharjah"
-    },
-    {
-        "matchname": "SRH vs CSK",
-        "matchicon": "https://i.ibb.co/c1RMLTC/20201011-093603.jpg",
-        "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
-        "date": "13 OCT 2020",
-        "matchmode": "TOSS/MATCH",
-        "amount": "499",
-        "switch": "0",
-        "disc": "VENUE :-  Sheikh Zayed Stadium, Abu Dhabi"
-    },
-     {
-        "matchname": "DC vs RR",
-        "matchicon": "https://i.ibb.co/s6tT2d5/20201011-094010.jpg",
-        "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
-        "date": "14 OCT 2020",
-        "matchmode": "TOSS/MATCH",
-        "amount": "499",
-        "switch": "0",
-        "disc": "VENUE :-  Dubai International Cricket Stadium , Dubai"
     }
+    
     
 ]
