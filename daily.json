@@ -1,36 +1,42 @@
 [
 
-   
-    {
-        "matchname": "RCB vs KKR",
-        "matchicon": "https://i.ibb.co/Lnh7cVr/20201011-093344.jpg",
-        "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
-        "date": "12 OCT 2020",
-        "matchmode": "TOSS",
-        "amount": "499",
-        "switch": "1",
-        "disc": "VENUE :-  Sharjah Cricket Stadium, Sharjah"
-    },
    {
 
-        "matchname": "RCB vs KKR",
+        "matchname": "SRH vs CSK",
 
-        "matchicon": "https://i.ibb.co/Lnh7cVr/20201011-093344.jpg",
+        "matchicon": "https://i.ibb.co/c1RMLTC/20201011-093603.jpg",
 
         "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
 
-        "date": "12 OCT 2020",
+        "date": "13 OCT 2020",
 
-        "matchmode": "MATCH",
+        "matchmode": "TOSS/MATCH",
 
         "amount": "499",
 
-        "switch": "1",
+        "switch": "0",
 
-        "disc": "VENUE :-  Sharjah Cricket Stadium, Sharjah"
+        "disc": "VENUE :-  Sheikh Zayed Stadium, Abu Dhabi"
 
-    }
+    },
+    {
+        "matchname": "SRH vs CSK",
+
+        "matchicon": "https://i.ibb.co/c1RMLTC/20201011-093603.jpg",
+
+        "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
+
+        "date": "13 OCT 2020",
+
+        "matchmode": "TOSS/MATCH",
+
+        "amount": "499",
+
+        "switch": "0",
+
+        "disc": "VENUE :-  Sheikh Zayed Stadium, Abu Dhabi"
 
     
+    }
     
 ]
