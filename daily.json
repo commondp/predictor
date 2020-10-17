@@ -21,21 +21,21 @@
     },
    {
 
-        "matchname": "DC vs CSK",
+        "matchname": "MI vs KXIP",
 
-        "matchicon": "https://i.ibb.co/Qk15jgQ/20201017-072555.jpg",
+        "matchicon": "https://i.ibb.co/CJRkr3S/20201017-200810.jpg",
 
         "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
 
-        "date": "17 OCT 2020",
+        "date": "18 OCT 2020",
 
         "matchmode": "ONLY TOSS",
 
         "amount": "499",
 
-        "switch": "0",
+        "switch": "1",
 
-        "disc": "TOSS WINNER: CHENNAI                                          VENUE :-Sharjah"
+        "disc": "VENUE :- Sharjah"
 
     }
 ]
