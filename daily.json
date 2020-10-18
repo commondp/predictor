@@ -19,5 +19,25 @@
 
         "disc": "Phone pay not working ❌ please use googlepay,paytm,bhim or other upi apps"
 
+    },
+      {
+
+        "matchname": "MI vs KXIP",
+
+        "matchicon": "https://i.ibb.co/CJRkr3S/20201017-200810.jpg",
+
+        "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
+
+        "date": "18 OCT 2020",
+
+        "matchmode": "ONLY TOSS",
+
+        "amount": "499",
+
+        "switch": "1",
+
+        "disc": "Phone pay not working ❌ please use googlepay,paytm,bhim or other upi apps"
+
     }
+   
 ]
