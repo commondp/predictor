@@ -36,7 +36,7 @@
 
         "amount": "530",
 
-        "switch": "0",
+        "switch": "1",
 
         "disc": "MI VS DC"
 
@@ -55,7 +55,7 @@
 
         "amount": "530",
 
-        "switch": "0",
+        "switch": "1",
 
         "disc": "SRH VS RCB"
          
@@ -74,7 +74,7 @@
 
          "amount": "530",
 
-         "switch": "0",
+         "switch": "1",
 
          "disc": "TBC VS TBC"
 
@@ -95,13 +95,36 @@
 
          "amount": "530",
 
-         "switch": "0",
+         "switch": "1",
 
          "disc": "TBC VS TBC"
 
          
 
+      },
+   
+
+    {
+
+        "matchname": "supernova vs velocity",
+
+        "matchicon": "https://i.ibb.co/bRRx3nK/images-14.jpg",
+
+        "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
+
+        "date": "04 NOV 2020",
+
+        "matchmode": "TOSS",
+
+        "amount": "530",
+
+        "switch": "0",
+
+        "disc": "1"
+
       }
+
+      
         
 ]
 
