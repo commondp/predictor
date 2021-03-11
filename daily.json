@@ -3,13 +3,13 @@
    
    {
 
-        "matchname": "BIGBASH",
+        "matchname": "MI VS RCB",
 
         "matchicon": "https://i.ibb.co/pdVKdR8/images.png",
 
         "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
 
-        "date": "13 JAN 2021",
+        "date": "09 APR 2021",
 
         "matchmode": "TOSS",
 
@@ -24,34 +24,34 @@
     },
     {
 
-        "matchname": "UAE VS IRELAND",
+        "matchname": "CSK VS DC",
 
         "matchicon": "https://i.ibb.co/pdVKdR8/images.png",
 
         "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
 
-        "date": "10 JAN 2021",
+        "date": "10 APR 2021",
 
-        "matchmode": "TOSS",
+        "matchmode": "TOSS & MATCH",
 
         "amount": "530",
 
         "switch": "0",
 
-        "disc": "SUSPENDED"
+        "disc": "CHECK IN TELEGRAM"
 
       },
       
       {
-         "matchname": "SUPER SMASH MEN",
+         "matchname": "SRH VS KKR",
 
         "matchicon": "https://i.ibb.co/pdVKdR8/images.png",
 
         "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
 
-        "date": "14 JAN 2021",
+        "date": "11 APR 2021",
 
-        "matchmode": "TOSS",
+        "matchmode": "TOSS & MATCH",
 
         "amount": "530",
 
@@ -62,15 +62,15 @@
       },
       {
 
-         "matchname": "SUPER SMASH WOMEN",
+         "matchname": "RR VS PUN",
 
          "matchicon": "https://i.ibb.co/pdVKdR8/images.png",
 
          "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
 
-         "date": "14 JAN 2021",
+         "date": "12 APR 2021",
 
-         "matchmode": "TOSS",
+         "matchmode": "TOSS & MATCH",
 
          "amount": "530",
 
@@ -83,15 +83,15 @@
       },
       {
 
-         "matchname": "MOMENTUM CUP",
+         "matchname": "KKR VS MI ",
 
          "matchicon": "https://i.ibb.co/pdVKdR8/images.png",
 
          "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
 
-         "date": "15 JAN 2021",
+         "date": "13 APR 2021",
 
-         "matchmode": "TOSS",
+         "matchmode": "TOSS & MATCH",
 
          "amount": "530",
 
@@ -106,23 +106,1056 @@
 
     {
 
-        "matchname": "SYED MUSTAF ALI ",
+        "matchname": "SRH VS RCB",
 
         "matchicon": "https://i.ibb.co/pdVKdR8/images.png",
 
         "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
 
-        "date": "13 JAN 2021",
+        "date": "14 APR 2O21",
 
-        "matchmode": "TOSS",
+        "matchmode": "TOSS & MATCH",
 
         "amount": "530",
 
         "switch": "0",
 
-        "disc": "1"
+        "disc": "CHECK IN TELEGRAM"
+
+      },
+   {
+
+        "matchname": "RR VS DC",
+
+        "matchicon": "https://i.ibb.co/pdVKdR8/images.png",
+
+        "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
+
+        "date": "15 APR 2O21",
+
+        "matchmode": "TOSS & MATCH",
+
+        "amount": "530",
+
+        "switch": "0",
+
+        "disc": "CHECK IN TELEGRAM"
+
+      },
+   {
+
+        "matchname": "PUN VS CSK",
+
+        "matchicon": "https://i.ibb.co/pdVKdR8/images.png",
+
+        "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
+
+        "date": "16 APR 2O21",
+
+        "matchmode": "TOSS & MATCH",
+
+        "amount": "530",
+
+        "switch": "0",
+
+        "disc": "CHECK IN TELEGRAM"
+
+      },
+   {
+
+        "matchname": "MI VS SRH",
+
+        "matchicon": "https://i.ibb.co/pdVKdR8/images.png",
+
+        "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
+
+        "date": "17 APR 2O21",
+
+        "matchmode": "TOSS & MATCH",
+
+        "amount": "530",
+
+        "switch": "0",
+
+        "disc": "CHECK IN TELEGRAM"
+
+      },
+   {
+
+        "matchname": "RCB VS KKR",
+
+        "matchicon": "https://i.ibb.co/pdVKdR8/images.png",
+
+        "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
+
+        "date": "18 APR 2O21",
+
+        "matchmode": "TOSS & MATCH",
+
+        "amount": "530",
+
+        "switch": "0",
+
+        "disc": "CHECK IN TELEGRAM"
+
+      },
+   {
+
+        "matchname": "DC VS PUN",
+
+        "matchicon": "https://i.ibb.co/pdVKdR8/images.png",
+
+        "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
+
+        "date": "18 APR 2O21",
+
+        "matchmode": "TOSS & MATCH",
+
+        "amount": "530",
+
+        "switch": "0",
+
+        "disc": "CHECK IN TELEGRAM"
+
+      },
+   {
+
+        "matchname": "CSK VS RR",
+
+        "matchicon": "https://i.ibb.co/pdVKdR8/images.png",
+
+        "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
+
+        "date": "19 APR 2O21",
+
+        "matchmode": "TOSS & MATCH",
+
+        "amount": "530",
+
+        "switch": "0",
+
+        "disc": "CHECK IN TELEGRAM"
+
+      },
+   {
+
+        "matchname": "DC VS MI",
+
+        "matchicon": "https://i.ibb.co/pdVKdR8/images.png",
+
+        "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
+
+        "date": "20 APR 2O21",
+
+        "matchmode": "TOSS & MATCH",
+
+        "amount": "530",
+
+        "switch": "0",
+
+        "disc": "CHECK IN TELEGRAM"
+
+      },
+    {
+
+        "matchname": "PUN VS HYD",
+
+        "matchicon": "https://i.ibb.co/pdVKdR8/images.png",
+
+        "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
+
+        "date": "21 APR 2O21",
+
+        "matchmode": "TOSS & MATCH",
+
+        "amount": "530",
+
+        "switch": "0",
+
+        "disc": "CHECK IN TELEGRAM"
+
+      },
+   {
+
+        "matchname": "KKR VS CSK",
+
+        "matchicon": "https://i.ibb.co/pdVKdR8/images.png",
+
+        "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
+
+        "date": "21 APR 2O21",
+
+        "matchmode": "TOSS & MATCH",
+
+        "amount": "530",
+
+        "switch": "0",
+
+        "disc": "CHECK IN TELEGRAM"
+
+      },
+   {
+
+        "matchname": "RCB VS RR",
+
+        "matchicon": "https://i.ibb.co/pdVKdR8/images.png",
+
+        "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
+
+        "date": "22 APR 2O21",
+
+        "matchmode": "TOSS & MATCH",
+
+        "amount": "530",
+
+        "switch": "0",
+
+        "disc": "CHECK IN TELEGRAM"
+
+      },
+   {
+
+        "matchname": "PUN VS MI",
+
+        "matchicon": "https://i.ibb.co/pdVKdR8/images.png",
+
+        "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
+
+        "date": "23 APR 2O21",
+
+        "matchmode": "TOSS & MATCH",
+
+        "amount": "530",
+
+        "switch": "0",
+
+        "disc": "CHECK IN TELEGRAM"
+
+      },
+   {
+
+        "matchname": "RR VS KKR",
+
+        "matchicon": "https://i.ibb.co/pdVKdR8/images.png",
+
+        "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
+
+        "date": "24 APR 2O21",
+
+        "matchmode": "TOSS & MATCH",
+
+        "amount": "530",
+
+        "switch": "0",
+
+        "disc": "CHECK IN TELEGRAM"
+
+      },
+   {
+
+        "matchname": "CSK VS RCB",
+
+        "matchicon": "https://i.ibb.co/pdVKdR8/images.png",
+
+        "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
+
+        "date": "25 APR 2O21",
+
+        "matchmode": "TOSS & MATCH",
+
+        "amount": "530",
+
+        "switch": "0",
+
+        "disc": "CHECK IN TELEGRAM"
+
+      },
+   {
+
+        "matchname": "SRH VS DC",
+
+        "matchicon": "https://i.ibb.co/pdVKdR8/images.png",
+
+        "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
+
+        "date": "25 APR 2O21",
+
+        "matchmode": "TOSS & MATCH",
+
+        "amount": "530",
+
+        "switch": "0",
+
+        "disc": "CHECK IN TELEGRAM"
+
+      },
+   {
+
+        "matchname": "PUN VS KKR",
+
+        "matchicon": "https://i.ibb.co/pdVKdR8/images.png",
+
+        "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
+
+        "date": "26 APR 2O21",
+
+        "matchmode": "TOSS & MATCH",
+
+        "amount": "530",
+
+        "switch": "0",
+
+        "disc": "CHECK IN TELEGRAM"
+
+      },
+   {
+
+        "matchname": "DC VS RCB",
+
+        "matchicon": "https://i.ibb.co/pdVKdR8/images.png",
+
+        "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
+
+        "date": "27 APR 2O21",
+
+        "matchmode": "TOSS & MATCH",
+
+        "amount": "530",
+
+        "switch": "0",
+
+        "disc": "CHECK IN TELEGRAM"
+
+      },
+   {
+
+        "matchname": "CSK VS SRH",
+
+        "matchicon": "https://i.ibb.co/pdVKdR8/images.png",
+
+        "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
+
+        "date": "28 APR 2O21",
+
+        "matchmode": "TOSS & MATCH",
+
+        "amount": "530",
+
+        "switch": "0",
+
+        "disc": "CHECK IN TELEGRAM"
+
+      },
+    {
+
+        "matchname": "MI VS RR",
+
+        "matchicon": "https://i.ibb.co/pdVKdR8/images.png",
+
+        "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
+
+        "date": "29 APR 2O21",
+
+        "matchmode": "TOSS & MATCH",
+
+        "amount": "530",
+
+        "switch": "0",
+
+        "disc": "CHECK IN TELEGRAM"
+
+      },
+   {
+
+        "matchname": "DC VS KKR",
+
+        "matchicon": "https://i.ibb.co/pdVKdR8/images.png",
+
+        "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
+
+        "date": "29 APR 2O21",
+
+        "matchmode": "TOSS & MATCH",
+
+        "amount": "530",
+
+        "switch": "0",
+
+        "disc": "CHECK IN TELEGRAM"
+
+      },
+   {
+
+        "matchname": "PUN VS RCB",
+
+        "matchicon": "https://i.ibb.co/pdVKdR8/images.png",
+
+        "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
+
+        "date": "30 APR 2O21",
+
+        "matchmode": "TOSS & MATCH",
+
+        "amount": "530",
+
+        "switch": "0",
+
+        "disc": "CHECK IN TELEGRAM"
+
+      },
+   {
+
+        "matchname": "MI VS CSK",
+
+        "matchicon": "https://i.ibb.co/pdVKdR8/images.png",
+
+        "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
+
+        "date": "01 MAY 2O21",
+
+        "matchmode": "TOSS & MATCH",
+
+        "amount": "530",
+
+        "switch": "0",
+
+        "disc": "CHECK IN TELEGRAM"
+
+      },
+   {
+
+        "matchname": "RR VS SRH",
+
+        "matchicon": "https://i.ibb.co/pdVKdR8/images.png",
+
+        "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
+
+        "date": "02 MAY 2O21",
+
+        "matchmode": "TOSS & MATCH",
+
+        "amount": "530",
+
+        "switch": "0",
+
+        "disc": "CHECK IN TELEGRAM"
+
+      },
+   {
+
+        "matchname": "PUN VS DC",
+
+        "matchicon": "https://i.ibb.co/pdVKdR8/images.png",
+
+        "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
+
+        "date": "02 MAY 2O21",
+
+        "matchmode": "TOSS & MATCH",
+
+        "amount": "530",
+
+        "switch": "0",
+
+        "disc": "CHECK IN TELEGRAM"
+
+      },
+   {
+
+        "matchname": "KKR VS RCB",
+
+        "matchicon": "https://i.ibb.co/pdVKdR8/images.png",
+
+        "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
+
+        "date": "03 MAY 2O21",
+
+        "matchmode": "TOSS & MATCH",
+
+        "amount": "530",
+
+        "switch": "0",
+
+        "disc": "CHECK IN TELEGRAM"
+
+      },
+   {
+
+        "matchname": "SRH VS MI",
+
+        "matchicon": "https://i.ibb.co/pdVKdR8/images.png",
+
+        "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
+
+        "date": "04 MAY 2O21",
+
+        "matchmode": "TOSS & MATCH",
+
+        "amount": "530",
+
+        "switch": "0",
+
+        "disc": "CHECK IN TELEGRAM"
+
+      },
+   {
+
+        "matchname": "RR VS CSK",
+
+        "matchicon": "https://i.ibb.co/pdVKdR8/images.png",
+
+        "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
+
+        "date": "05 MAY 2O21",
+
+        "matchmode": "TOSS & MATCH",
+
+        "amount": "530",
+
+        "switch": "0",
+
+        "disc": "CHECK IN TELEGRAM"
+
+      },
+   {
+
+        "matchname": "RCB VS PUN",
+
+        "matchicon": "https://i.ibb.co/pdVKdR8/images.png",
+
+        "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
+
+        "date": "06 MAY 2O21",
+
+        "matchmode": "TOSS & MATCH",
+
+        "amount": "530",
+
+        "switch": "0",
+
+        "disc": "CHECK IN TELEGRAM"
+
+      },
+    {
+
+        "matchname": "SRH VS CSK",
+
+        "matchicon": "https://i.ibb.co/pdVKdR8/images.png",
+
+        "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
+
+        "date": "07 MAY 2O21",
+
+        "matchmode": "TOSS & MATCH",
+
+        "amount": "530",
+
+        "switch": "0",
+
+        "disc": "CHECK IN TELEGRAM"
+
+      },
+   {
+
+        "matchname": "KKR VS DC",
+
+        "matchicon": "https://i.ibb.co/pdVKdR8/images.png",
+
+        "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
+
+        "date": "08 MAY 2O21",
+
+        "matchmode": "TOSS & MATCH",
+
+        "amount": "530",
+
+        "switch": "0",
+
+        "disc": "CHECK IN TELEGRAM"
+
+      },
+    {
+
+        "matchname": "RR VS MI",
+
+        "matchicon": "https://i.ibb.co/pdVKdR8/images.png",
+
+        "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
+
+        "date": "08 MAY 2O21",
+
+        "matchmode": "TOSS & MATCH",
+
+        "amount": "530",
+
+        "switch": "0",
+
+        "disc": "CHECK IN TELEGRAM"
+
+      },
+   {
+
+        "matchname": "CSK VS PUN",
+
+        "matchicon": "https://i.ibb.co/pdVKdR8/images.png",
+
+        "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
+
+        "date": "09 MAY 2O21",
+
+        "matchmode": "TOSS & MATCH",
+
+        "amount": "530",
+
+        "switch": "0",
+
+        "disc": "CHECK IN TELEGRAM"
+
+      },
+   {
+
+        "matchname": "RCB VS SRH",
+
+        "matchicon": "https://i.ibb.co/pdVKdR8/images.png",
+
+        "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
+
+        "date": "09 MAY 2O21",
+
+        "matchmode": "TOSS & MATCH",
+
+        "amount": "530",
+
+        "switch": "0",
+
+        "disc": "CHECK IN TELEGRAM"
+
+      },
+    {
+
+        "matchname": "MI VS KKR",
+
+        "matchicon": "https://i.ibb.co/pdVKdR8/images.png",
+
+        "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
+
+        "date": "10 MAY 2O21",
+
+        "matchmode": "TOSS & MATCH",
+
+        "amount": "530",
+
+        "switch": "0",
+
+        "disc": "CHECK IN TELEGRAM"
+
+      },
+   {
+
+        "matchname": "DC VS RR",
+
+        "matchicon": "https://i.ibb.co/pdVKdR8/images.png",
+
+        "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
+
+        "date": "11 MAY 2O21",
+
+        "matchmode": "TOSS & MATCH",
+
+        "amount": "530",
+
+        "switch": "0",
+
+        "disc": "CHECK IN TELEGRAM"
+
+      },
+   {
+
+        "matchname": "CSK VS KKR",
+
+        "matchicon": "https://i.ibb.co/pdVKdR8/images.png",
+
+        "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
+
+        "date": "12 MAY 2O21",
+
+        "matchmode": "TOSS & MATCH",
+
+        "amount": "530",
+
+        "switch": "0",
+
+        "disc": "CHECK IN TELEGRAM"
+
+      },
+    {
+
+        "matchname": "MI VS PUN",
+
+        "matchicon": "https://i.ibb.co/pdVKdR8/images.png",
+
+        "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
+
+        "date": "13 MAY 2O21",
+
+        "matchmode": "TOSS & MATCH",
+
+        "amount": "530",
+
+        "switch": "0",
+
+        "disc": "CHECK IN TELEGRAM"
+
+      },
+   {
+
+        "matchname": "SRH VS RR",
+
+        "matchicon": "https://i.ibb.co/pdVKdR8/images.png",
+
+        "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
+
+        "date": "13 MAY 2O21",
+
+        "matchmode": "TOSS & MATCH",
+
+        "amount": "530",
+
+        "switch": "0",
+
+        "disc": "CHECK IN TELEGRAM"
+
+      },
+    {
+
+        "matchname": "RCB VS DC",
+
+        "matchicon": "https://i.ibb.co/pdVKdR8/images.png",
+
+        "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
+
+        "date": "14 MAY 2O21",
+
+        "matchmode": "TOSS & MATCH",
+
+        "amount": "530",
+
+        "switch": "0",
+
+        "disc": "CHECK IN TELEGRAM"
+
+      },
+   {
+
+        "matchname": "KKR VS PUN",
+
+        "matchicon": "https://i.ibb.co/pdVKdR8/images.png",
+
+        "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
+
+        "date": "15 MAY 2O21",
+
+        "matchmode": "TOSS & MATCH",
+
+        "amount": "530",
+
+        "switch": "0",
+
+        "disc": "CHECK IN TELEGRAM"
+
+      },
+   {
+
+        "matchname": "RR VS RCB",
+
+        "matchicon": "https://i.ibb.co/pdVKdR8/images.png",
+
+        "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
+
+        "date": "16 MAY 2O21",
+
+        "matchmode": "TOSS & MATCH",
+
+        "amount": "530",
+
+        "switch": "0",
+
+        "disc": "CHECK IN TELEGRAM"
+
+      },
+   {
+
+        "matchname": "CSK VS MI",
+
+        "matchicon": "https://i.ibb.co/pdVKdR8/images.png",
+
+        "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
+
+        "date": "16 MAY 2O21",
+
+        "matchmode": "TOSS & MATCH",
+
+        "amount": "530",
+
+        "switch": "0",
+
+        "disc": "CHECK IN TELEGRAM"
+
+      },
+   {
+
+        "matchname": "DC VS SRH",
+
+        "matchicon": "https://i.ibb.co/pdVKdR8/images.png",
+
+        "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
+
+        "date": "17 MAY 2O21",
+
+        "matchmode": "TOSS & MATCH",
+
+        "amount": "530",
+
+        "switch": "0",
+
+        "disc": "CHECK IN TELEGRAM"
+
+      },
+   {
+
+        "matchname": "KKR VS RR",
+
+        "matchicon": "https://i.ibb.co/pdVKdR8/images.png",
+
+        "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
+
+        "date": "18 MAY 2O21",
+
+        "matchmode": "TOSS & MATCH",
+
+        "amount": "530",
+
+        "switch": "0",
+
+        "disc": "CHECK IN TELEGRAM"
+
+      },
+    {
+
+        "matchname": "SRH VS PUN",
+
+        "matchicon": "https://i.ibb.co/pdVKdR8/images.png",
+
+        "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
+
+        "date": "19 MAY 2O21",
+
+        "matchmode": "TOSS & MATCH",
+
+        "amount": "530",
+
+        "switch": "0",
+
+        "disc": "CHECK IN TELEGRAM"
+
+      },
+   {
+
+        "matchname": "RCB VS MI",
+
+        "matchicon": "https://i.ibb.co/pdVKdR8/images.png",
+
+        "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
+
+        "date": "20 MAY 2O21",
+
+        "matchmode": "TOSS & MATCH",
+
+        "amount": "530",
+
+        "switch": "0",
+
+        "disc": "CHECK IN TELEGRAM"
+
+      },
+   {
+
+        "matchname": "KKR VS SRH",
+
+        "matchicon": "https://i.ibb.co/pdVKdR8/images.png",
+
+        "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
+
+        "date": "21 MAY 2O21",
+
+        "matchmode": "TOSS & MATCH",
+
+        "amount": "530",
+
+        "switch": "0",
+
+        "disc": "CHECK IN TELEGRAM"
+
+      },
+    {
+
+        "matchname": "DC VS CSK",
+
+        "matchicon": "https://i.ibb.co/pdVKdR8/images.png",
+
+        "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
+
+        "date": "21 MAY 2O21",
+
+        "matchmode": "TOSS & MATCH",
+
+        "amount": "530",
+
+        "switch": "0",
+
+        "disc": "CHECK IN TELEGRAM"
+
+      },
+   {
+
+        "matchname": "PUN VS RR",
+
+        "matchicon": "https://i.ibb.co/pdVKdR8/images.png",
+
+        "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
+
+        "date": "22 MAY 2O21",
+
+        "matchmode": "TOSS & MATCH",
+
+        "amount": "530",
+
+        "switch": "0",
+
+        "disc": "CHECK IN TELEGRAM"
+
+      },
+   {
+
+        "matchname": "MI VS DC",
+
+        "matchicon": "https://i.ibb.co/pdVKdR8/images.png",
+
+        "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
+
+        "date": "23 MAY 2O21",
+
+        "matchmode": "TOSS & MATCH",
+
+        "amount": "530",
+
+        "switch": "0",
+
+        "disc": "CHECK IN TELEGRAM"
+
+      },
+   {
+
+        "matchname": "RR VS CSK",
+
+        "matchicon": "https://i.ibb.co/pdVKdR8/images.png",
+
+        "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
+
+        "date": "23 MAY 2O21",
+
+        "matchmode": "TOSS & MATCH",
+
+        "amount": "530",
+
+        "switch": "0",
+
+        "disc": "CHECK IN TELEGRAM"
+
+      },
+   {
+
+        "matchname": "QUALIFIER 1",
+
+        "matchicon": "https://i.ibb.co/pdVKdR8/images.png",
+
+        "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
+
+        "date": "25 MAY 2O21",
+
+        "matchmode": "TOSS & MATCH",
+
+        "amount": "530",
+
+        "switch": "0",
+
+        "disc": "CHECK IN TELEGRAM"
+
+      },
+   {
+
+        "matchname": "ELMINATOR",
+
+        "matchicon": "https://i.ibb.co/pdVKdR8/images.png",
+
+        "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
+
+        "date": "26 MAY 2O21",
+
+        "matchmode": "TOSS & MATCH",
+
+        "amount": "530",
+
+        "switch": "0",
+
+        "disc": "CHECK IN TELEGRAM"
+
+      },
+     {
+
+        "matchname": "QUALIFIER 2",
+
+        "matchicon": "https://i.ibb.co/pdVKdR8/images.png",
+
+        "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
+
+        "date": "28 MAY 2O21",
+
+        "matchmode": "TOSS & MATCH",
+
+        "amount": "530",
+
+        "switch": "0",
+
+        "disc": "CHECK IN TELEGRAM"
+
+      },
+   {
+
+        "matchname": "FINAL",
+
+        "matchicon": "https://i.ibb.co/pdVKdR8/images.png",
+
+        "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
+
+        "date": "30 MAY 2O21",
+
+        "matchmode": "TOSS & MATCH",
+
+        "amount": "530",
+
+        "switch": "0",
+
+        "disc": "CHECK IN TELEGRAM"
 
       }
+   
+   
+   
+   
+   
+   
+   
 
          
 ]
