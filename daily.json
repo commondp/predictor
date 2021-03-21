@@ -1,13 +1,14 @@
 [
+   
    {
 
-        "matchname": "AFG VS ZIM",
+        "matchname": "WESTINDIES VS SRILANKA ",
 
         "matchicon": "https://i.ibb.co/pdVKdR8/images.png",
 
         "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
 
-        "date": "20 MAR 2021",
+        "date": "21 MAR 2021",
 
         "matchmode": "TOSS",
 
@@ -15,9 +16,45 @@
 
         "switch": "0",
 
-        "disc": " TOSS 👉 AFGANISTAN  MATCH WINNER 👉 AFGANISTAN"
+        "disc": " TOSS 👉 WESTINDIES "
+},
+   
+   {
 
+        "matchname": "INDIA W VS S.AFRICA W ",
 
+        "matchicon": "https://i.ibb.co/pdVKdR8/images.png",
+
+        "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
+
+        "date": "21 MAR 2021",
+
+        "matchmode": "TOSS",
+
+        "amount": "11",
+
+        "switch": "0",
+
+        "disc": " TOSS 👉 INDIA W  "
+},
+   
+   {
+
+        "matchname": "INDIA LEG VS SRILANKA LEG ",
+
+        "matchicon": "https://i.ibb.co/pdVKdR8/images.png",
+
+        "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
+
+        "date": "21 MAR 2021",
+
+        "matchmode": "TOSS",
+
+        "amount": "11",
+
+        "switch": "0",
+
+        "disc": " TOSS 👉 INDIA LEGENDS "
 
     },
 
