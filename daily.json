@@ -16,7 +16,7 @@
       
         "switch": "0",
 
-        "disc": "MATCH WINNER 👉 INDIA"
+        "disc": "TOSS WINNER 👉 INDIA"
 },
    
    {
@@ -35,12 +35,12 @@
 
         "switch": "0",
 
-        "disc": " MATCH WINNER 👉 NEWZLAND "
+        "disc": " TOSS WINNER 👉 BANGLADESH MATCH WINNER 👉 NEWZLAND "
 },
    
    {
 
-        "matchname": "OTAGO VS CENTRAL DISTRICT ",
+        "matchname": "QUEENSLAND VS SOUTH AUSTRALIA",
 
         "matchicon": "https://i.ibb.co/pdVKdR8/images.png",
 
@@ -54,7 +54,7 @@
 
         "switch": "0",
 
-        "disc": " MATCH WINNER 👉 CENTRAL"
+        "disc": " TOSS WINNER 👉 QUEENSLAND "
 
     },
 
