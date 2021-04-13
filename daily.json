@@ -1,39 +1,41 @@
 [    
    {
-         "matchname": " RR VS PBKS",
+         "matchname": " KKR VS MI",
 
         "matchicon": "https://i.ibb.co/pdVKdR8/images.png",
 
         "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
 
-        "date": "12 APR 2021",
+        "date": "13 APR 2021",
 
-        "matchmode": "TOSS & MATCH",
+        "matchmode": "TOSS ",
 
-        "amount": "530",
+        "amount": "500",
 
-        "switch": "0",
+        "switch": "1",
+      
+        "payment" : " https://pmny.in/8IaPB9PbjMbk",
 
-        "disc": "MATCH WINNER - RR"
+        "disc": "TOSS WINNER - PAID REPORT"
          
       },
       {
 
-         "matchname": "PAK VS SA",
+         "matchname": "KKR VS MI",
 
          "matchicon": "https://i.ibb.co/pdVKdR8/images.png",
 
          "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
 
-         "date": "12 APR 2021",
+         "date": "13 APR 2021",
 
-         "matchmode": "TOSS & MATCH",
+         "matchmode": "MATCH",
 
          "amount": "530",
 
-         "switch": "0",
+         "switch": "1",
 
-         "disc": " TOSS WINNER - PAK"
+         "disc": " MATCH WINNER - PAID REPORT"
 
          
 
