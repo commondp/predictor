@@ -1,42 +1,23 @@
 [    
    {
-         "matchname": " PBK VS CSK ",
+         "matchname": " MI VS SRH ",
 
         "matchicon": "https://i.ibb.co/pdVKdR8/images.png",
 
         "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
 
-        "date": "16 APR 2021",
+        "date": "17 APR 2021",
 
         "matchmode": " TOSS ",
 
-        "amount": "500",
+        "amount": "501",
 
         "switch": "0",
       
-        "paylink" : " https://pmny.in/8IaPB9PbjMbk",
+        "paylink" : "https://pmny.in/wrF1wtWBsG39",
 
-        "disc": "TOSS WINNER : CSK "
+        "disc": "PAY AND GET FIXED REPORT"
          
-      },
-   {
-
-        "matchname": "PUN VS CSK",
-
-        "matchicon": "https://i.ibb.co/pdVKdR8/images.png",
-
-        "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
-
-        "date": "16 APR 2O21",
-
-        "matchmode": "MATCH",
-
-        "amount": "530",
-
-        "switch": "0",
-
-        "disc": "MATCH WINNER - CSK"
-
       },
    {
 
@@ -48,15 +29,18 @@
 
         "date": "17 APR 2O21",
 
-        "matchmode": "TOSS & MATCH",
+        "matchmode": "MATCH",
 
-        "amount": "530",
+        "amount": "501",
 
         "switch": "0",
-
-        "disc": "CHECK IN TELEGRAM"
+      
+        "paylink" : "https://pmny.in/pIHpgYL1D5RJ",
+      
+        "disc": "PAY AND GET FIXED REPORT"
 
       },
+      
    {
 
         "matchname": "RCB VS KKR",
