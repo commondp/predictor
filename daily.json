@@ -1,84 +1,5 @@
 [    
-   {
-         "matchname": " MI VS SRH ",
-
-        "matchicon": "https://i.ibb.co/pdVKdR8/images.png",
-
-        "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
-
-        "date": "17 APR 2021",
-
-        "matchmode": " TOSS ",
-
-        "amount": "500",
-
-        "switch": "1",
-      
-        "paylink" : "",
-
-        "disc": "PAY AND GET FIXED REPORT"
-         
-      },
-   {
-
-        "matchname": "MI VS SRH",
-
-        "matchicon": "https://i.ibb.co/pdVKdR8/images.png",
-
-        "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
-
-        "date": "17 APR 2O21",
-
-        "matchmode": "MATCH",
-
-        "amount": "501",
-
-        "switch": "1",
-      
-        "paylink" : "",
-      
-        "disc": "PAY AND GET FIXED REPORT"
-
-      },
-      
-   {
-
-        "matchname": "RCB VS KKR",
-
-        "matchicon": "https://i.ibb.co/pdVKdR8/images.png",
-
-        "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
-
-        "date": "18 APR 2O21",
-
-        "matchmode": "TOSS & MATCH",
-
-        "amount": "530",
-
-        "switch": "0",
-
-        "disc": "CHECK IN TELEGRAM"
-
-      },
-   {
-
-        "matchname": "DC VS PUN",
-
-        "matchicon": "https://i.ibb.co/pdVKdR8/images.png",
-
-        "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
-
-        "date": "18 APR 2O21",
-
-        "matchmode": "TOSS & MATCH",
-
-        "amount": "530",
-
-        "switch": "0",
-
-        "disc": "CHECK IN TELEGRAM"
-
-      },
+   
    {
 
         "matchname": "CSK VS RR",
@@ -89,7 +10,7 @@
 
         "date": "19 APR 2O21",
 
-        "matchmode": "TOSS & MATCH",
+        "matchmode": "TOSS WINNER - RR",
 
         "amount": "530",
 
