@@ -2,21 +2,23 @@
    
    {
 
-        "matchname": "DC VS MI",
+        "matchname": "PBKS VS SRH",
 
         "matchicon": "https://i.ibb.co/pdVKdR8/images.png",
 
         "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
 
-        "date": "20 APR 2O21",
+        "date": "21 APR 2O21",
 
-        "matchmode": "TOSS WINNER - MUMBAI",
+        "matchmode": "TOSS WINNER - PAID",
 
-        "amount": "530",
+        "amount": "600",
 
-        "switch": "0",
+        "switch": "1",
+       
+        "paylink" : "https://pmny.in/IIzN2XydLpat",
 
-        "disc": "TOSS WINNER - MUMBAI"
+        "disc": "TOSS WINNER - PAID"
 
       },
    {
