@@ -1,120 +1,4 @@
 [    
-   
-   {
-
-        "matchname": "RCB VS RR",
-
-        "matchicon": "https://i.ibb.co/pdVKdR8/images.png",
-
-        "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
-
-        "date": "22 APR 2O21",
-
-        "matchmode": "TOSS WINNER - BANGLORE",
-
-        "amount": "600",
-
-        "switch": "0",
-       
-
-        "disc": "BANGLORE WON THE TOSS AYEGA"
-
-      },
-   {
-
-        "matchname": "RCB VS RR",
-
-        "matchicon": "https://i.ibb.co/pdVKdR8/images.png",
-
-        "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
-
-        "date": "22 APR 2O21",
-
-        "matchmode": "MATCH WINNER - BANGLORE",
-
-        "amount": "530",
-
-        "switch": "0",
-
-        "disc": "BANGLORE CHASE HOGA"
-
-      },
-    {
-
-        "matchname": "PUN VS HYD",
-
-        "matchicon": "https://i.ibb.co/pdVKdR8/images.png",
-
-        "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
-
-        "date": "21 APR 2O21",
-
-        "matchmode": "TOSS & MATCH",
-
-        "amount": "530",
-
-        "switch": "0",
-
-        "disc": "CHECK IN TELEGRAM"
-
-      },
-   {
-
-        "matchname": "KKR VS CSK",
-
-        "matchicon": "https://i.ibb.co/pdVKdR8/images.png",
-
-        "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
-
-        "date": "21 APR 2O21",
-
-        "matchmode": "TOSS & MATCH",
-
-        "amount": "530",
-
-        "switch": "0",
-
-        "disc": "CHECK IN TELEGRAM"
-
-      },
-   {
-
-        "matchname": "RCB VS RR",
-
-        "matchicon": "https://i.ibb.co/pdVKdR8/images.png",
-
-        "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
-
-        "date": "22 APR 2O21",
-
-        "matchmode": "TOSS & MATCH",
-
-        "amount": "530",
-
-        "switch": "0",
-
-        "disc": "CHECK IN TELEGRAM"
-
-      },
-   {
-
-        "matchname": "PUN VS MI",
-
-        "matchicon": "https://i.ibb.co/pdVKdR8/images.png",
-
-        "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
-
-        "date": "23 APR 2O21",
-
-        "matchmode": "TOSS & MATCH",
-
-        "amount": "530",
-
-        "switch": "0",
-
-        "disc": "CHECK IN TELEGRAM"
-
-      },
    {
 
         "matchname": "RR VS KKR",
@@ -125,13 +9,13 @@
 
         "date": "24 APR 2O21",
 
-        "matchmode": "TOSS & MATCH",
+        "matchmode": "TOSS WINNER - KOLKATA",
 
         "amount": "530",
 
         "switch": "0",
 
-        "disc": "CHECK IN TELEGRAM"
+        "disc": "TOSS WINNER - KOLKATA"
 
       },
    {
