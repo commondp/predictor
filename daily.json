@@ -1,23 +1,4 @@
-[    
-   {
-
-        "matchname": "RR VS KKR",
-
-        "matchicon": "https://i.ibb.co/pdVKdR8/images.png",
-
-        "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
-
-        "date": "24 APR 2O21",
-
-        "matchmode": "TOSS WINNER - KOLKATA",
-
-        "amount": "530",
-
-        "switch": "0",
-
-        "disc": "TOSS WINNER - KOLKATA"
-
-      },
+[   
    {
 
         "matchname": "CSK VS RCB",
@@ -28,13 +9,13 @@
 
         "date": "25 APR 2O21",
 
-        "matchmode": "TOSS & MATCH",
+        "matchmode": "TOSS - CHENNAI",
 
         "amount": "530",
 
         "switch": "0",
 
-        "disc": "CHECK IN TELEGRAM"
+        "disc": "CHENNAI SUPER KINGS WON THE TOSS"
 
       },
    {
