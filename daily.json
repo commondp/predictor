@@ -1,41 +1,24 @@
 [   
-      
-   {
+     
 
-        "matchname": "CSK VS SRH",
-
-        "matchicon": "https://i.ibb.co/pdVKdR8/images.png",
-
-        "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
-
-        "date": "28 APR 2O21",
-
-        "matchmode": "TOSS WINNER - SRH",
-
-        "amount": "530",
-
-        "switch": "0",
-
-        "disc": "SRH WON THE TOSS"
-
-      },
+     
     {
 
-        "matchname": "CSK VS SRH",
+        "matchname": "MI VS RR",
 
         "matchicon": "https://i.ibb.co/pdVKdR8/images.png",
 
         "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
 
-        "date": "28 APR 2O21",
+        "date": "29 APR 2O21",
 
-        "matchmode": "MATCH WINNER - CSK",
+        "matchmode": "TOSS WINNER - MI",
 
         "amount": "530",
 
         "switch": "0",
 
-        "disc": "CSK WON THE MATCH"
+        "disc": "MI WON THE MATCH"
 
       },
    {
