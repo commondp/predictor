@@ -1,45 +1,4 @@
-[   
-     
-
-     
-    {
-
-        "matchname": "MI VS RR",
-
-        "matchicon": "https://i.ibb.co/pdVKdR8/images.png",
-
-        "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
-
-        "date": "29 APR 2O21",
-
-        "matchmode": "TOSS WINNER - MI",
-
-        "amount": "530",
-
-        "switch": "0",
-
-        "disc": "MI WON THE MATCH"
-
-      },
-   {
-
-        "matchname": "DC VS KKR",
-
-        "matchicon": "https://i.ibb.co/pdVKdR8/images.png",
-
-        "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
-
-        "date": "29 APR 2O21",
-
-        "matchmode": "TOSS WINNER - KKR",
-
-        "amount": "530",
-
-        "switch": "0",
-
-        "disc": "KKR WON THE TOSS"
-
-      },
+[    
    {
 
         "matchname": "PUN VS RCB",
@@ -50,13 +9,13 @@
 
         "date": "30 APR 2O21",
 
-        "matchmode": "TOSS & MATCH",
+        "matchmode": "TOSS WINNER - PUNJAB",
 
         "amount": "530",
 
         "switch": "0",
 
-        "disc": "CHECK IN TELEGRAM"
+        "disc": "PUNJAB WON THE TOSS"
 
       },
    {
