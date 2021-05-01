@@ -1,23 +1,5 @@
 [    
-   {
-
-        "matchname": "PUN VS RCB",
-
-        "matchicon": "https://i.ibb.co/pdVKdR8/images.png",
-
-        "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
-
-        "date": "30 APR 2O21",
-
-        "matchmode": "TOSS WINNER - PUNJAB",
-
-        "amount": "530",
-
-        "switch": "0",
-
-        "disc": "PUNJAB WON THE TOSS"
-
-      },
+  
    {
 
         "matchname": "MI VS CSK",
@@ -28,13 +10,13 @@
 
         "date": "01 MAY 2O21",
 
-        "matchmode": "TOSS & MATCH",
+        "matchmode": "TOSS WINNER - CHENNAI",
 
         "amount": "530",
 
         "switch": "0",
 
-        "disc": "CHECK IN TELEGRAM"
+        "disc": "CHENNAI WON THE TOSS"
 
       },
    {
