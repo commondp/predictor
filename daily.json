@@ -1,24 +1,5 @@
 [    
-  
-   {
-
-        "matchname": "MI VS CSK",
-
-        "matchicon": "https://i.ibb.co/pdVKdR8/images.png",
-
-        "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
-
-        "date": "01 MAY 2O21",
-
-        "matchmode": "TOSS WINNER - CHENNAI",
-
-        "amount": "530",
-
-        "switch": "0",
-
-        "disc": "CHENNAI WON THE TOSS"
-
-      },
+   
    {
 
         "matchname": "RR VS SRH",
@@ -29,13 +10,13 @@
 
         "date": "02 MAY 2O21",
 
-        "matchmode": "TOSS & MATCH",
+        "matchmode": "TOSS ",
 
         "amount": "530",
 
         "switch": "0",
 
-        "disc": "CHECK IN TELEGRAM"
+        "disc": "TOSS WINNER - HYDERABAD"
 
       },
    {
