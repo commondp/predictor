@@ -2,61 +2,27 @@
    
    {
 
-        "matchname": "RR VS SRH",
+        "matchname": "SRH VS MI",
 
         "matchicon": "https://i.ibb.co/pdVKdR8/images.png",
 
         "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
 
-        "date": "02 MAY 2O21",
+        "date": "04 MAY 2O21",
 
         "matchmode": "TOSS ",
 
-        "amount": "530",
+        "amount": "400",
 
-        "switch": "0",
+        "switch": "1",
+        
+        "paylink":"https://pmny.in/DIRp9ZsjYSgI",
 
         "disc": "TOSS WINNER - HYDERABAD"
 
       },
-   {
 
-        "matchname": "PUN VS DC",
-
-        "matchicon": "https://i.ibb.co/pdVKdR8/images.png",
-
-        "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
-
-        "date": "02 MAY 2O21",
-
-        "matchmode": "TOSS ",
-
-        "amount": "530",
-
-        "switch": "0",
-
-        "disc": "TOSS WINNER - PUNJAB"
-
-      },
-   {
-
-        "matchname": "KKR VS RCB",
-
-        "matchicon": "https://i.ibb.co/pdVKdR8/images.png",
-
-        "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
-
-        "date": "03 MAY 2O21",
-
-        "matchmode": "TOSS & MATCH",
-
-        "amount": "530",
-
-        "switch": "0",
-
-        "disc": "CHECK IN TELEGRAM"
-
-      },
+  
    {
 
         "matchname": "SRH VS MI",
@@ -67,11 +33,13 @@
 
         "date": "04 MAY 2O21",
 
-        "matchmode": "TOSS & MATCH",
+        "matchmode": "MATCH",
 
-        "amount": "530",
+        "amount": "600",
 
-        "switch": "0",
+        "switch": "1",
+      
+        "paylink":"https://pmny.in/3IYPfvj0rpJ7",
 
         "disc": "CHECK IN TELEGRAM"
 
