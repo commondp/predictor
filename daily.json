@@ -36,7 +36,7 @@
 
         "date": "05 JUNE 2O21",
 
-        "matchmode": "T10 ",
+        "matchmode": "T10",
 
         "amount": "400",
 
@@ -44,7 +44,7 @@
         
         "paylink":"https://pmny.in/DIRp9ZsjYSgI",
 
-        "disc": "TOSS PREDICTION - COMINGSOON"
+        "disc": "TOSS PREDICTION - Coming soon"
 
 
       },
@@ -67,13 +67,38 @@
 
         "switch": "0",
 
-        
+
 
         "paylink":"https://pmny.in/DIRp9ZsjYSgI",
 
         "disc": "TOSS PREDICTION - COMINGSOON"
 
+      },
+   
+   
+   {
+
+        "matchname": "NET VS IRE",
+
+        "matchicon": "https://i.ibb.co/pdVKdR8/images.png",
+
+        "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
+
+        "date": "07 JUNE 2O21",
+
+        "matchmode": "3rd ODI ",
+
+        "amount": "400",
+
+        "switch": "0",
+        
+        "paylink":"https://pmny.in/DIRp9ZsjYSgI",
+
+        "disc": "TOSS PREDICTION - IRELAND"
+
+
       }
+   
          
 ]
 
