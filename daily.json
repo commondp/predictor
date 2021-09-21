@@ -24,7 +24,7 @@
    
     {
 
-      "matchname": "PBKS VS RR ",
+         "matchname": "PBKS vs RR",
 
         "matchicon": "https://i.ibb.co/pdVKdR8/images.png",
 
@@ -34,12 +34,11 @@
 
         "matchmode": "MATCH WINNER",
 
-        "amount": "550",
+        "amount": "500",
 
-        "switch": "0"
+        "switch": "0",
 
-         "paylink": "https://rzp.io/l/Gv1hYUcVQK",
-
+        "paylink": "https://rzp.io/l/Gv1hYUcVQK",
 
         "disc": "MATCH PREDICTION - FREE"
 
