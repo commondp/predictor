@@ -2,13 +2,13 @@
    
     {
 
-      "matchname": "CSK vs KKR",
+      "matchname": "RR vs SRH",
 
         "matchicon": "https://i.ibb.co/pdVKdR8/images.png",
 
         "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
 
-        "date": "26TH SEP 2O21",
+        "date": "27TH SEP 2O21",
 
         "matchmode": "TOSS WINNER",
 
@@ -18,19 +18,19 @@
 
         "paylink": "https://rzp.io/l/Gv1hYUcVQK",
 
-        "disc": "TOSS WINNER-CSK"
+        "disc": "TOSS WINNER-RR"
 
       },
    
     {
 
-         "matchname": "CSK vs KKR",
+         "matchname": "RR vs SRH",
 
         "matchicon": "https://i.ibb.co/pdVKdR8/images.png",
 
         "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
 
-        "date": "26TH SEP 2O21",
+        "date": "27TH SEP 2O21",
 
         "matchmode": "MATCH WINNER",
 
@@ -42,49 +42,8 @@
 
         "disc": "MATCH WINNER - COMINGSOON"
 
-      },
-       {
-
-         "matchname": "RCB vs MI",
-
-        "matchicon": "https://i.ibb.co/pdVKdR8/images.png",
-
-        "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
-
-        "date": "26TH SEP 2O21",
-
-        "matchmode": "TOSS WINNER",
-
-        "amount": "550",
-
-        "switch": "0",
-
-        "paylink": "https://rzp.io/l/nvrsIrV",
-
-        "disc": "TOSS WINNER - RCB"
-
-      },
-        {
-
-         "matchname": "RCB vs MI",
-
-        "matchicon": "https://i.ibb.co/pdVKdR8/images.png",
-
-        "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
-
-        "date": "26TH SEP 2O21",
-
-        "matchmode": "MATCH WINNER",
-
-        "amount": "550",
-
-        "switch": "0",
-
-        "paylink": "https://rzp.io/l/nvrsIrV",
-
-        "disc": "MATCH WINNER - COMINGSOON"
-
-      },
+      }
+       
        
 ]
 
