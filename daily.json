@@ -42,6 +42,49 @@
 
         "disc": "MATCH WINNER - BANGLORE"
 
+      },
+    {
+
+      "matchname": "RCB vs PBKS",
+
+        "matchicon": "https://i.ibb.co/pdVKdR8/images.png",
+
+        "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
+
+        "date": "3RD OCT 2O21",
+
+        "matchmode": "TOSS WINNER",
+
+        "amount": "500",
+
+        "switch": "O",
+
+        "paylink": "https://rzp.io/l/Gv1hYUcVQK",
+
+        "disc": "TOSS WINNER - RCB"
+
+      },
+   
+    {
+
+         "matchname": "KKR vs SRH",
+
+        "matchicon": "https://i.ibb.co/pdVKdR8/images.png",
+
+        "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
+
+        "date": "3RD OCT 2O21",
+
+        "matchmode": "MATCH WINNER",
+
+        "amount": "600",
+
+        "switch": "0",
+
+        "paylink": "https://rzp.io/l/ybeCuVMTnN",
+
+        "disc": "TOSS WINNER - 600"
+
       }
     
        
