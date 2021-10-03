@@ -2,13 +2,13 @@
    
     {
 
-      "matchname": "DC vs MI",
+      "matchname": "RCB vs PBKS",
 
         "matchicon": "https://i.ibb.co/pdVKdR8/images.png",
 
         "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
 
-        "date": "2ND OCT 2O21",
+        "date": "3RD OCT 2O21",
 
         "matchmode": "TOSS WINNER",
 
@@ -18,19 +18,19 @@
 
         "paylink": "https://rzp.io/l/Gv1hYUcVQK",
 
-        "disc": "TOSS WINNER - DELHI"
+        "disc": "TOSS WINNER - COMINGSOON"
 
       },
    
     {
 
-         "matchname": "CSK vs RR",
+         "matchname": "RCB vs PBKS",
 
         "matchicon": "https://i.ibb.co/pdVKdR8/images.png",
 
         "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
 
-        "date": "2ND OCT 2O21",
+        "date": "3RD OCT 2O21",
 
         "matchmode": "MATCH WINNER",
 
@@ -40,30 +40,10 @@
 
         "paylink": "https://rzp.io/l/nvrsIrV",
 
-        "disc": "MATCH WINNER - CHENNAI"
+        "disc": "MATCH WINNER - COMMINGSOON"
 
-      },
-    {
-
-      "matchname": "RR vs CSK",
-
-        "matchicon": "https://i.ibb.co/pdVKdR8/images.png",
-
-        "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
-
-        "date": "2ND OCT 2O21",
-
-        "matchmode": "TOSS WINNER",
-
-        "amount": "500",
-
-        "switch": "O",
-
-        "paylink": "https://rzp.io/l/Gv1hYUcVQK",
-
-        "disc": "TOSS WINNER - RAJASTHAN"
-
-      },
+      }
+    
        
        
 ]
