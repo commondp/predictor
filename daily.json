@@ -2,88 +2,45 @@
    
     {
 
-      "matchname": "RCB vs PBKS",
+      "matchname": "RCB vs SRH",
 
         "matchicon": "https://i.ibb.co/pdVKdR8/images.png",
 
         "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
 
-        "date": "3RD OCT 2O21",
+        "date": "6TH OCT 2O21",
 
         "matchmode": "TOSS WINNER",
 
         "amount": "500",
 
-        "switch": "O",
+        "switch": "1",
 
         "paylink": "https://rzp.io/l/Gv1hYUcVQK",
 
-        "disc": "TOSS WINNER - RCB"
+        "disc": "TOSS WINNER - PAID"
 
       },
    
     {
 
-         "matchname": "RCB vs PBKS",
+         "matchname": "RCB vs SRH",
 
         "matchicon": "https://i.ibb.co/pdVKdR8/images.png",
 
         "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
 
-        "date": "3RD OCT 2O21",
+        "date": "6TH OCT 2O21",
 
         "matchmode": "MATCH WINNER",
 
         "amount": "550",
 
-        "switch": "0",
+        "switch": "1",
 
         "paylink": "https://rzp.io/l/nvrsIrV",
 
-        "disc": "MATCH WINNER - BANGLORE"
-
-      },
-    {
-
-      "matchname": "RCB vs PBKS",
-
-        "matchicon": "https://i.ibb.co/pdVKdR8/images.png",
-
-        "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
-
-        "date": "3RD OCT 2O21",
-
-        "matchmode": "TOSS WINNER",
-
-        "amount": "500",
-
-        "switch": "O",
-
-        "paylink": "https://rzp.io/l/Gv1hYUcVQK",
-
-        "disc": "TOSS WINNER - RCB"
-
-      },
-   
-    {
-
-         "matchname": "KKR vs SRH",
-
-        "matchicon": "https://i.ibb.co/pdVKdR8/images.png",
-
-        "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
-
-        "date": "3RD OCT 2O21",
-
-        "matchmode": "MATCH WINNER",
-
-        "amount": "600",
-
-        "switch": "0",
-
-        "paylink": "https://rzp.io/l/ybeCuVMTnN",
-
-        "disc": "MATCH WINNER - KKR"
+        "disc": "MATCH WINNER - PAID"
 
       }
     
