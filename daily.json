@@ -2,55 +2,55 @@
    
     {
 
-      "matchname": "CSK vs KKR",
+      "matchname": "BAN vs PNG",
 
         "matchicon": "https://i.ibb.co/pdVKdR8/images.png",
 
         "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
 
-        "date": "15TH OCT 2O21",
+        "date": "21ST OCT 2O21",
 
         "matchmode": "TOSS WINNER",
 
         "amount": "500",
 
-        "switch": "1",
+        "switch": "0",
 
         "paylink": "https://rzp.io/l/Gv1hYUcVQK",
 
-        "disc": "TOSS WINNER - FIXED TOSS"
+        "disc": "TOSS WINNER - BANGLADESH"
 
       },
     {
 
-      "matchname": "CSK vs KKR",
+      "matchname": "BAN vs PNG",
 
         "matchicon": "https://i.ibb.co/pdVKdR8/images.png",
 
         "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
 
-        "date": "15TH OCT 2O21",
+        "date": "21ST OCT 2O21",
 
         "matchmode": "MATCH WINNER",
 
         "amount": "550",
 
-        "switch": "1",
+        "switch": "0",
 
         "paylink": "https://rzp.io/l/nvrsIrV",
 
-        "disc": "MATCH WINNER - FIXED MATCH"
+        "disc": "MATCH WINNER - BANGLADESH"
 
       },
      {
 
-      "matchname": "GER vs JER",
+      "matchname": "OMAN vs SCO",
 
         "matchicon": "https://i.ibb.co/pdVKdR8/images.png",
 
         "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
 
-        "date": "15TH OCT 2O21",
+        "date": "21ST OCT 2O21",
 
         "matchmode": "TOSS WINNER",
 
@@ -60,18 +60,18 @@
 
         "paylink": "https://pmny.in/5IAO7ZB3nqr7",
 
-        "disc": "TOSS WINNER - GERMANY"
+        "disc": "TOSS WINNER - OMAN"
 
       },
     {
 
-      "matchname": "GER vs JER",
+      "matchname": "OMAN vs SCO",
 
         "matchicon": "https://i.ibb.co/pdVKdR8/images.png",
 
         "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
 
-        "date": "15TH OCT 2O21",
+        "date": "21ST OCT 2O21",
 
         "matchmode": "MATCH WINNER",
 
@@ -81,54 +81,11 @@
 
         "paylink": "https://pmny.in/5IAO7ZB3nqr7",
 
-        "disc": "MATCH WINNER - GERMANY"
-
-      },
-   
-     {
-
-      "matchname": "ITALY vs DEN",
-
-        "matchicon": "https://i.ibb.co/pdVKdR8/images.png",
-
-        "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
-
-        "date": "15TH OCT 2O21",
-
-        "matchmode": "TOSS WINNER",
-
-        "amount": "550",
-
-        "switch": "0",
-
-        "paylink": "https://pmny.in/5IAO7ZB3nqr7",
-
-        "disc": "TOSS WINNER - ITALY"
-
-      },
-   
-    {
-
-      "matchname": "ITALY vs DEN",
-
-        "matchicon": "https://i.ibb.co/pdVKdR8/images.png",
-
-        "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
-
-        "date": "15TH OCT 2O21",
-
-        "matchmode": "MATCH WINNER",
-
-        "amount": "550",
-
-        "switch": "0",
-
-        "paylink": "https://pmny.in/5IAO7ZB3nqr7",
-
-        "disc": "MATCH WINNER - DENMARK"
+        "disc": "MATCH WINNER - SCOTLAND"
 
       }
-    
+   
+     
 ]
 
 
