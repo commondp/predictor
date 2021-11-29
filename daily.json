@@ -2,15 +2,15 @@
    
     {
 
-      "matchname": "TAD vs CB",
+      "matchname": "SL vs WI",
 
         "matchicon": "https://i.ibb.co/pdVKdR8/images.png",
 
         "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
 
-        "date": "28TH NOV 2O21",
+        "date": "29TH NOV 2O21",
 
-        "matchmode": "T10",
+        "matchmode": "TEST",
 
         "amount": "500",
 
@@ -18,20 +18,20 @@
 
         "paylink": "https://rzp.io/l/Gv1hYUcVQK",
 
-        "disc": "MATCH WINNER - ABUDHABI"
+        "disc": "TOSS WINNER - WESTINDIIES"
 
       },
     {
 
-      "matchname": "DG vs NW",
+      "matchname": "OMAN vs UAE",
 
         "matchicon": "https://i.ibb.co/pdVKdR8/images.png",
 
         "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
 
-        "date": "28TH NOV 2O21",
+        "date": "29TH NOV 2O21",
 
-        "matchmode": "T10",
+        "matchmode": "ICC",
 
         "amount": "550",
 
@@ -39,18 +39,18 @@
 
         "paylink": "https://rzp.io/l/nvrsIrV",
 
-        "disc": "TOSS WINNER - NORTHERN WORRIERS"
+        "disc": "TOSS WINNER - UAE"
 
       },
      {
 
-      "matchname": "BT vs DB",
+      "matchname": "DG vs TA",
 
         "matchicon": "https://i.ibb.co/pdVKdR8/images.png",
 
         "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
 
-        "date": "28TH NOV 2O21",
+        "date": "29TH NOV 2O21",
 
         "matchmode": "T10",
 
@@ -60,9 +60,31 @@
 
         "paylink": "https://pmny.in/5IAO7ZB3nqr7",
 
-        "disc": "TOSS WINNER - DELHI BULLS"
+        "disc": "TOSS WINNER - ABUDHABI"
+
+      },
+    {
+
+      "matchname": "NW vs CB",
+
+        "matchicon": "https://i.ibb.co/pdVKdR8/images.png",
+
+        "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
+
+        "date": "29TH NOV 2O21",
+
+        "matchmode": "T10",
+
+        "amount": "550",
+
+        "switch": "0",
+
+        "paylink": "https://pmny.in/5IAO7ZB3nqr7",
+
+        "disc": "TOSS WINNER - CHENNAI"
 
       }
+     
      
 ]
 
