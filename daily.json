@@ -1,16 +1,37 @@
-[    
-   
-    {
+[  
+   {
 
-      "matchname": "IND vs NZ",
+      "matchname": "SYD.S vs MELB.",
 
         "matchicon": "https://i.ibb.co/pdVKdR8/images.png",
 
         "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
 
-        "date": "3RD DEC 2O21",
+        "date": "5TH DEC 2O21",
 
-        "matchmode": "TEST",
+        "matchmode": "BIGBASH",
+
+        "amount": "550",
+
+        "switch": "0",
+
+        "paylink": "https://rzp.io/l/nvrsIrV",
+
+        "disc": "TOSS WINNER - MELBORNE STARS"
+
+      },
+   
+    {
+
+      "matchname": "WT vs CD",
+
+        "matchicon": "https://i.ibb.co/pdVKdR8/images.png",
+
+        "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
+
+        "date": "5th DEC 2O21",
+
+        "matchmode": "SUPER SMASH",
 
         "amount": "500",
 
@@ -18,20 +39,20 @@
 
         "paylink": "https://rzp.io/l/Gv1hYUcVQK",
 
-        "disc": "TOSS WINNER - NEWZLAND"
+        "disc": "TOSS WINNER - CENTRAL DISTRICTS"
 
       },
     {
 
-      "matchname": "NT vs Otago",
+      "matchname": "GG vs JJ",
 
         "matchicon": "https://i.ibb.co/pdVKdR8/images.png",
 
         "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
 
-        "date": "3rd DEC 2O21",
+        "date": "5TH DEC 2O21",
 
-        "matchmode": "super smash",
+        "matchmode": "LPL 2021",
 
         "amount": "550",
 
@@ -39,30 +60,10 @@
 
         "paylink": "https://rzp.io/l/nvrsIrV",
 
-        "disc": "TOSS WINNER - otago"
+        "disc": "TOSS WINNER - JAFFNA"
 
       },
-     {
-
-      "matchname": "NT vs Otago",
-
-        "matchicon": "https://i.ibb.co/pdVKdR8/images.png",
-
-        "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
-
-        "date": "3rd DEC 2O21",
-
-        "matchmode": "super smash",
-
-        "amount": "550",
-
-        "switch": "0",
-
-        "paylink": "https://rzp.io/l/nvrsIrV",
-
-        "disc": "Match WINNER - comingsoon"
-
-      },
+     
    {
 
       "matchname": "PROMOTIONS",
