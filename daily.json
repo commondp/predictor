@@ -1,15 +1,15 @@
 [  
    {
 
-      "matchname": "col vs dum",
+      "matchname": "SIXERS vs ADELIDE",
 
         "matchicon": "https://i.ibb.co/pdVKdR8/images.png",
 
         "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
 
-        "date": "19TH DEC 2O21",
+        "date": "21ST DEC 2O21",
 
-        "matchmode": "lplt20",
+        "matchmode": "BBL",
 
         "amount": "550",
 
@@ -17,7 +17,70 @@
 
         "paylink": "https://rzp.io/l/nvrsIrV",
 
-        "disc": "TOSS WINNER - dumbulla"
+        "disc": "TOSS WINNER - SIXERS"
+
+      },
+   {
+
+      "matchname": "SIXERS vs ADELIDE",
+
+        "matchicon": "https://i.ibb.co/pdVKdR8/images.png",
+
+        "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
+
+        "date": "21ST DEC 2O21",
+
+        "matchmode": "BBL",
+
+        "amount": "550",
+
+        "switch": "0",
+
+        "paylink": "https://rzp.io/l/nvrsIrV",
+
+        "disc": "MATCH WINNER - SIXERS"
+
+      },
+   {
+
+      "matchname": "JAF vs DUM",
+
+        "matchicon": "https://i.ibb.co/pdVKdR8/images.png",
+
+        "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
+
+        "date": "21ST DEC 2O21",
+
+        "matchmode": "LPLT20",
+
+        "amount": "550",
+
+        "switch": "0",
+
+        "paylink": "https://rzp.io/l/nvrsIrV",
+
+        "disc": "TOSS WINNER - JAFFNA"
+
+      },
+   {
+
+      "matchname": "JAF vs DUM",
+
+        "matchicon": "https://i.ibb.co/pdVKdR8/images.png",
+
+        "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
+
+        "date": "21ST DEC 2O21",
+
+        "matchmode": "LPLT20",
+
+        "amount": "550",
+
+        "switch": "0",
+
+        "paylink": "https://rzp.io/l/nvrsIrV",
+
+        "disc": "MATCH WINNER - JAFFNA"
 
       },
    
