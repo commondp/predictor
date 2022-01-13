@@ -1,13 +1,13 @@
 [  
    {
 
-      "matchname": "Hobert vs Thunders",
+      "matchname": "Thunders vs Hobert",
 
         "matchicon": "https://i.ibb.co/pdVKdR8/images.png",
 
         "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
 
-        "date": "10th JAN 2O21",
+        "date": "13th JAN 2O21",
 
         "matchmode": "BBL",
 
@@ -17,18 +17,18 @@
 
         "paylink": "https://rzp.io/l/nvrsIrV",
 
-        "disc": "TOSS WINNER - HOBERT"
+        "disc": "TOSS WINNER - Thunders"
 
       },
    {
 
-      "matchname": "Hobert vs Thunders",
+      "matchname": "Thunders vs Hobert",
 
         "matchicon": "https://i.ibb.co/pdVKdR8/images.png",
 
         "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
 
-        "date": "10th JAN 2O21",
+        "date": "13th JAN 2O21",
 
         "matchmode": "BBL",
 
@@ -43,13 +43,13 @@
       },
    {
 
-      "matchname": "STARS vs STRIKERS",
+      "matchname": "Renegades vs Stars",
 
         "matchicon": "https://i.ibb.co/pdVKdR8/images.png",
 
         "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
 
-        "date": "10TH JAN 2O21",
+        "date": "13TH JAN 2O21",
 
         "matchmode": "BBL",
 
@@ -59,18 +59,18 @@
 
         "paylink": "https://rzp.io/l/nvrsIrV",
 
-        "disc": "TOSS WINNER - STARS"
+        "disc": "TOSS WINNER - Renegades"
 
       },
    {
 
-      "matchname": "STARS vs STRIKERS",
+      "matchname": "Renegades vs Stars",
 
         "matchicon": "https://i.ibb.co/pdVKdR8/images.png",
 
         "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
 
-        "date": "10TH JAN 2O21",
+        "date": "13TH JAN 2O21",
 
         "matchmode": "BBL",
 
@@ -80,7 +80,49 @@
 
         "paylink": "https://rzp.io/l/nvrsIrV",
 
-        "disc": "MATCH WINNER - Comingsoon"
+        "disc": "MATCH WINNER - Stars"
+
+      },
+    {
+
+      "matchname": "Westindies vs Ireland",
+
+        "matchicon": "https://i.ibb.co/pdVKdR8/images.png",
+
+        "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
+
+        "date": "13TH JAN 2O21",
+
+        "matchmode": "BBL",
+
+        "amount": "550",
+
+        "switch": "0",
+
+        "paylink": "https://rzp.io/l/nvrsIrV",
+
+        "disc": "TOSS WINNER - Westindies"
+
+      },
+    {
+
+      "matchname": "Westindies vs Ireland",
+
+        "matchicon": "https://i.ibb.co/pdVKdR8/images.png",
+
+        "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
+
+        "date": "13TH JAN 2O21",
+
+        "matchmode": "BBL",
+
+        "amount": "550",
+
+        "switch": "0",
+
+        "paylink": "https://rzp.io/l/nvrsIrV",
+
+        "disc": "MATCH WINNER - Westindies"
 
       },
    
