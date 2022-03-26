@@ -1,13 +1,13 @@
 [  
    {
 
-      "matchname": "CSK vs KKR",
+      "matchname": "DC vs MI",
 
         "matchicon": "https://i.ibb.co/pdVKdR8/images.png",
 
         "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
 
-        "date": "25th Mar 2022",
+        "date": "27th Mar 2022",
 
         "matchmode": "IPL 2022",
 
@@ -17,20 +17,20 @@
 
         "paylink": "https://rzp.io/l/nvrsIrV",
 
-        "disc": "TOSS WINNER - Chennai "
+        "disc": "TOSS WINNER - COMING SOON "
 
       },
    {
 
-      "matchname": "CSK vs KKR",
-
+      "matchname": "DC vs MI",
+      
         "matchicon": "https://i.ibb.co/pdVKdR8/images.png",
 
         "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
 
-        "date": "25th JAN 2O22",
+        "date": "27th JAN 2O22",
 
-        "matchmode": "ICC",
+        "matchmode": "IPL 2022",
 
         "amount": "550",
 
@@ -38,7 +38,49 @@
 
         "paylink": "https://rzp.io/l/nvrsIrV",
 
-        "disc": "MATCH WINNER - kolkata"
+        "disc": "MATCH WINNER - COMING SOON"
+
+      },
+    {
+
+      "matchname": "RCB vs PBKS",
+      
+        "matchicon": "https://i.ibb.co/pdVKdR8/images.png",
+
+        "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
+
+        "date": "27th JAN 2O22",
+
+        "matchmode": "IPL 2022",
+
+        "amount": "550",
+
+        "switch": "0",
+
+        "paylink": "https://rzp.io/l/nvrsIrV",
+
+        "disc": "TOSS WINNER - COMING SOON"
+
+      },
+    {
+
+      "matchname": "RCB vs PBKS",
+      
+        "matchicon": "https://i.ibb.co/pdVKdR8/images.png",
+
+        "preimg": "https:\/\/i.ibb.co\/mDDCWkw\/20200920-001949.jpg",
+
+        "date": "27th JAN 2O22",
+
+        "matchmode": "IPL 2022",
+
+        "amount": "550",
+
+        "switch": "0",
+
+        "paylink": "https://rzp.io/l/nvrsIrV",
+
+        "disc": "MATCH WINNER - COMING SOON"
 
       },
    
